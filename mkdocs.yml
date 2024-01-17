@@ -2,6 +2,7 @@ site_name: Modul Pembelajaran Politeknik Sampit
 theme:
   name: material
   logo: assets/logo.png
+copyright: Copyright &copy; 2024 Achmad Afiffudin Nurzein
 nav:
   - Home: 'index.md'
   - 'Sistem Basis Data':
