@@ -1,3 +1,9 @@
-site_name: Modul Basis Data
+site_name: Modul Pembelajaran Politeknik Sampit
 theme:
   name: material
+nav:
+  - Home: 'index.md'
+  - 'Sistem Basis Data':
+    - 'Pengantar Sistem Basis Data': 'sistem-basis-data/01.md'
+  - 'Pengembangan Aplikasi Mobile':
+    - 'Android'
