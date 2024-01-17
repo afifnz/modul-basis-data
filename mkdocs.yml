@@ -1,6 +1,7 @@
 site_name: Modul Pembelajaran Politeknik Sampit
 theme:
   name: material
+  logo: assets/logo.png
 nav:
   - Home: 'index.md'
   - 'Sistem Basis Data':
