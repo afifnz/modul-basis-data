@@ -6,6 +6,10 @@ copyright: Copyright &copy; 2024 Achmad Afiffudin Nurzein
 nav:
   - Home: 'index.md'
   - 'Sistem Basis Data':
-    - 'Pengantar Sistem Basis Data': 'sistem-basis-data/01.md'
+    - 'Konsep Sistem Basis Data': 'sistem-basis-data/01.md'
+    - 'Model Data': 'sistem-basis-data/02.md'
+    - 'Model Berbasis Objek (Entity Relationship)': 'sistem-basis-data/03.md'
+    - 'Model Berbasis Record (Relational)': 'sistem-basis-data/04.md'
+    - 'Normalisasi': 'sistem-basis-data/05.md'
   - 'Pengembangan Aplikasi Mobile':
     - 'Android'
